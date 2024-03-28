@@ -1,0 +1,20 @@
+{
+  "name": "multiply_samiya",
+  "version": "1.0.0",
+  "description": "This will multiply two numbers",
+  "main": "index.js",
+  "bin": {
+    "multiply_samiya": "bin/index.js"
+  },
+  "scripts": {
+    "test": "2*6"
+  },
+  "keywords": [
+    "sammari"
+  ],
+  "author": "samiyamarium",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
